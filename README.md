@@ -1,6 +1,6 @@
 # BookResellingPlatform
 
-This a project which facilitates students of a college to buy and sell books from each other, in a few easy steps.
+This is a project which facilitates students of a college to buy and sell books from each other, in a few easy steps.
 
 Technology used: HTML-CSS as front-end; Java, Javascript & JSP; MySQL
 Dependancies: TomCat Server, MySQL server, an IDE like Eclipse, mysql-connector-java-8.0.17.jar, jstl.jar, standard.jar
