@@ -13,8 +13,3 @@ Students who wish to sell the books would put up a post, along with the price at
 Students who wish to buy books would be able to filter through all posts according to various filters( Title, Author, Department, Year etc). Out of these posts, user would be able to choose book with lowest price, and add it to their cart. User can buy multiple books in same transaction. For now, payment needs to be done physically. Online payment option could be implemented in future versions.
 
 Biggest advantage of the platform is that it eliminates third party. The work of admins is restricted to maintaining and updating book database according to the ever changing syllabi.
-
-How to run the project:
-
-1) Download the project and import as a Java Project in Eclipse. Setup Tomcat server.
-2) In WebContent, right click on login.jsp and select "Run on Server". The page should open up in your browser window.
